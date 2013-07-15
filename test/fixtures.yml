@@ -630,3 +630,6 @@ wirecard:
 world_pay_gateway:
   login: LOGIN
   password: PASSWORD
+
+two_pay:
+  login: "nada"
